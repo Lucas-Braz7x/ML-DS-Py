@@ -1,0 +1,21 @@
+---- Python ----
+https://www.python.org/downloads/release/python-360/
+
+---- Bibliotecas ----
+pip install virtualenv 
+	Desktop: (virtualenv env)/**/
+pip install xlrd
+pip install selenium
+pip install requests
+
+---- Chrome ----
+https://www.python.org/downloads/release/python-360/
+
+---- Driver Selenium ----
+http://chromedriver.chromium.org/downloads
+
+#Necessário para abir o navegador e controlar ele
+
+#import pdb; pdb.set_trace() #Pausa o programa para possibilar a interação
+
+# print("Domínio %s %s" %(dominio, resultados[4].text) )
